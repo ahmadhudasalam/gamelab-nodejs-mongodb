@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "6629c24c27adc0428f5dde45"
+  },
+  "kode_mapel": "AP",
+  "nama_mapel": "Algoritma Pemrograman"
+},
+{
+  "_id": {
+    "$oid": "6629c24c27adc0428f5dde46"
+  },
+  "kode_mapel": "JK",
+  "nama_mapel": "Jaringan Komputer"
+},
+{
+  "_id": {
+    "$oid": "6629c24c27adc0428f5dde47"
+  },
+  "kode_mapel": "PW",
+  "nama_mapel": "Pemrograman Dasar Web"
+},
+{
+  "_id": {
+    "$oid": "6629c24c27adc0428f5dde48"
+  },
+  "kode_mapel": "DG",
+  "nama_mapel": "Desain Grafis"
+},
+{
+  "_id": {
+    "$oid": "6629c24c27adc0428f5dde49"
+  },
+  "kode_mapel": "MM",
+  "nama_mapel": "Multimedia"
+},
+{
+  "_id": {
+    "$oid": "6629c24c27adc0428f5dde4a"
+  },
+  "kode_mapel": "MTK",
+  "nama_mapel": "Matematika"
+},
+{
+  "_id": {
+    "$oid": "6629c24c27adc0428f5dde4b"
+  },
+  "kode_mapel": "BING",
+  "nama_mapel": "Bahasa Inggris"
+},
+{
+  "_id": {
+    "$oid": "6629c24c27adc0428f5dde4c"
+  },
+  "kode_mapel": "BI",
+  "nama_mapel": "Bahasa Indonesia"
+},
+{
+  "_id": {
+    "$oid": "6629c24c27adc0428f5dde4d"
+  },
+  "kode_mapel": "SJR",
+  "nama_mapel": "SEJARAH"
+},
+{
+  "_id": {
+    "$oid": "6629c24c27adc0428f5dde4e"
+  },
+  "kode_mapel": "SB",
+  "nama_mapel": "SENI BUDAYA"
+},
+{
+  "_id": {
+    "$oid": "6629c24c27adc0428f5dde4f"
+  },
+  "kode_mapel": "PJOK",
+  "nama_mapel": "PENJASORKES"
+},
+{
+  "_id": {
+    "$oid": "6629c24c27adc0428f5dde50"
+  },
+  "kode_mapel": "SO",
+  "nama_mapel": "Sistem Operasi"
+}]

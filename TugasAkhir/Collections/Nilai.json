@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6629c21927adc0428f5dde3e"
+  },
+  "kode_mapel": "PW",
+  "absensi": 85,
+  "nilai_tugas": 82,
+  "nilai_uts": "94",
+  "nilai_uas": "95"
+},
+{
+  "_id": {
+    "$oid": "6629c21927adc0428f5dde3f"
+  },
+  "kode_mapel": "AP",
+  "absensi": 90,
+  "nilai_tugas": 86,
+  "nilai_uts": "92",
+  "nilai_uas": "96"
+},
+{
+  "_id": {
+    "$oid": "6629c21927adc0428f5dde40"
+  },
+  "kode_mapel": "JK",
+  "absensi": 95,
+  "nilai_tugas": 85,
+  "nilai_uts": "92",
+  "nilai_uas": "96"
+},
+{
+  "_id": {
+    "$oid": "6629c21927adc0428f5dde41"
+  },
+  "kode_mapel": "MTK",
+  "absensi": 90,
+  "nilai_tugas": 85,
+  "nilai_uts": "91",
+  "nilai_uas": "97"
+},
+{
+  "_id": {
+    "$oid": "6629c21927adc0428f5dde42"
+  },
+  "kode_mapel": "BING",
+  "absensi": 90,
+  "nilai_tugas": 83,
+  "nilai_uts": "92",
+  "nilai_uas": "95"
+}]

@@ -1,0 +1,27 @@
+// Insert data
+db.databuku.insertOne({
+  judul_buku: "Belajat botstrap",
+  pengarang: "Gamelab Indonesia",
+  jml_halaman: 700,
+  thn_terbit: 2022,
+});
+
+// Update data
+db.databuku.updateOne(
+  { judul_buku: "Belajat botstrap" },
+  {
+    $set: {
+      judul_buku: "Belajar Bootstrap",
+      kode_buku: "BB001",
+    },
+  }
+);
+
+// Find data
+db.databuku.find({ kode_buku: "BB001" });
+
+// Delete data
+db.databuku.deleteOne({ kode_buku: "BB001" });
+
+// Find data
+db.databuku.find({ kode_buku: "BB001" });

@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "6629c28927adc0428f5dde53"
+  },
+  "kode_kelas": "TKJ1",
+  "nama_kelas": "10.TKJ"
+},
+{
+  "_id": {
+    "$oid": "6629c28927adc0428f5dde54"
+  },
+  "kode_kelas": "TKJ2",
+  "nama_kelas": "11.TKJ"
+},
+{
+  "_id": {
+    "$oid": "6629c28927adc0428f5dde55"
+  },
+  "kode_kelas": "TKJ3",
+  "nama_kelas": "12.TKJ"
+},
+{
+  "_id": {
+    "$oid": "6629c28927adc0428f5dde56"
+  },
+  "kode_kelas": "RPL1",
+  "nama_kelas": "10.RPL"
+},
+{
+  "_id": {
+    "$oid": "6629c28927adc0428f5dde57"
+  },
+  "kode_kelas": "RPL2",
+  "nama_kelas": "11.RPL"
+},
+{
+  "_id": {
+    "$oid": "6629c28927adc0428f5dde58"
+  },
+  "kode_kelas": "RPL3",
+  "nama_kelas": "12.RPL"
+},
+{
+  "_id": {
+    "$oid": "6629c28927adc0428f5dde59"
+  },
+  "kode_kelas": "MM1",
+  "nama_kelas": "10.MM"
+},
+{
+  "_id": {
+    "$oid": "6629c28927adc0428f5dde5a"
+  },
+  "kode_kelas": "MM2",
+  "nama_kelas": "11.MM"
+},
+{
+  "_id": {
+    "$oid": "6629c28927adc0428f5dde5b"
+  },
+  "kode_kelas": "MM3",
+  "nama_kelas": "12.MM"
+},
+{
+  "_id": {
+    "$oid": "6629c28927adc0428f5dde5c"
+  },
+  "kode_kelas": "DKV1",
+  "nama_kelas": "10.DKV"
+},
+{
+  "_id": {
+    "$oid": "6629c28927adc0428f5dde5d"
+  },
+  "kode_kelas": "DKV2",
+  "nama_kelas": "11.DKV"
+},
+{
+  "_id": {
+    "$oid": "6629c28927adc0428f5dde5e"
+  },
+  "kode_kelas": "DKV3",
+  "nama_kelas": "12.DKV"
+}]
